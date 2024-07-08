@@ -1,4 +1,4 @@
-# papa-george
+# titulo-god
 repasando github
 
 ## descripción 
